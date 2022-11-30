@@ -4,6 +4,8 @@ public class Ming {
 
 	public static void main(String[] args) {
 		System.out.println("Yo! battle~");
+		System.out.println("branch ming");
+		
 	}
 
 }
